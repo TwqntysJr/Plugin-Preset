@@ -1,0 +1,4 @@
+name: Preset
+version: ${project.version}
+main: plzmercy.paralian.preset.Preset
+api-version: 1.16
